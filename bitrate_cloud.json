@@ -1,0 +1,41 @@
+{
+  "3g" : {
+    "bit_rate" : "819200",
+    "frame_rate" : "15",
+    "key_frame" : "30",
+    "height" : "896",
+    "width" : "504"
+  },
+  "play_timeout_interval" : "3000",
+  "high" : {
+    "bit_rate" : "1536000",
+    "frame_rate" : "15",
+    "key_frame" : "30",
+    "height" : "1280",
+    "width" : "720"
+  },
+  "mid" : {
+    "bit_rate" : "1228800",
+    "frame_rate" : "15",
+    "key_frame" : "30",
+    "height" : "1024",
+    "width" : "576"
+  },
+  "low" : {
+    "bit_rate" : "1024000",
+    "frame_rate" : "15",
+    "key_frame" : "30",
+    "height" : "896",
+    "width" : "504"
+  },
+  "device" : {
+    "iPhone" : {
+      "mid" : "iPhone9,4",
+      "high" : "iPhone18,1"
+    },
+    "iPad" : {
+      "mid" : "iPad6,12",
+      "high" : "iPad15,1"
+    }
+  }
+}
