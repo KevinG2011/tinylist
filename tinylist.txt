@@ -13,6 +13,12 @@
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
 ||google.com
+||google.co.jp
+||google.co.kr
+||google.co.uk
+||google.com.hk
+||google.com.sg
+||google.com.tw
 
 !##############Whitelist End#################
 !---------------------EOF--------------------
