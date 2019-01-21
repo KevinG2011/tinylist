@@ -8,6 +8,7 @@
 |https://*.fonts.googleapis.com
 |https://*.vimeo.com
 |https://*.vimeocdn.com
+|https://*.google-analytics.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
