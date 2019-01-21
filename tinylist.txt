@@ -3,12 +3,11 @@
 !##############Tiny List Start###############
 !!---Raywenderlich---
 ||raywenderlich.com
-|https://*.raywenderlich.com/
-|https://*.googletagmanager.com
-|https://*.fonts.googleapis.com
-|https://*.vimeo.com
-|https://*.vimeocdn.com
-|https://*.google-analytics.com
+||vimeo.com
+||vimeocdn.com
+||googletagmanager.com
+||googleapis.com
+||google-analytics.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
