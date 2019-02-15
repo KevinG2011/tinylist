@@ -22,10 +22,10 @@
 
 !!---Youtube---
 ||youtube.com
-|https://*.googlevideo.com
-|https://*.gstatic.com
-|https://*.hackingwithswift.com
-|https://*.twitter.com
+||googlevideo.com
+||gstatic.com
+||hackingwithswift.com
+||twitter.com
 
 !##############Whitelist End#################
 !---------------------EOF--------------------
