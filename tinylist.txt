@@ -1,14 +1,6 @@
 [AutoProxy 0.2.9]
 
 !##############Tiny List Start###############
-!!---Raywenderlich---
-||raywenderlich.com
-|https://*.raywenderlich.com/
-|https://*.googletagmanager.com
-|https://*.fonts.googleapis.com
-|https://*.vimeo.com
-|https://*.vimeocdn.com
-
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
@@ -19,6 +11,21 @@
 ||google.com.hk
 ||google.com.sg
 ||google.com.tw
+
+!!---Raywenderlich---
+||raywenderlich.com
+|https://*.raywenderlich.com
+|https://*.googletagmanager.com
+|https://*.fonts.googleapis.com
+|https://*.vimeo.com
+|https://*.vimeocdn.com
+
+!!---Youtube---
+||youtube.com
+|https://*.googlevideo.com
+|https://*.gstatic.com
+|https://*.hackingwithswift.com
+|https://*.twitter.com
 
 !##############Whitelist End#################
 !---------------------EOF--------------------
