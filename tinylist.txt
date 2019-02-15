@@ -12,6 +12,9 @@
 ||google.com.sg
 ||google.com.tw
 
+!!---Medium---
+||medium.com
+
 !!---Raywenderlich---
 ||raywenderlich.com
 ||vimeo.com
