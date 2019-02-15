@@ -14,11 +14,11 @@
 
 !!---Raywenderlich---
 ||raywenderlich.com
-|https://*.raywenderlich.com
-|https://*.googletagmanager.com
-|https://*.fonts.googleapis.com
-|https://*.vimeo.com
-|https://*.vimeocdn.com
+||vimeo.com
+||vimeocdn.com
+||googletagmanager.com
+||googleapis.com
+||google-analytics.com
 
 !!---Youtube---
 ||youtube.com
