@@ -12,6 +12,10 @@
 ||google.com.sg
 ||google.com.tw
 ||fonts.googleapis.com
+||googletagmanager.com
+||googleapis.com
+||google-analytics.com
+||googlevideo.com
 
 !!---Medium---
 ||medium.com
@@ -20,13 +24,9 @@
 ||raywenderlich.com
 ||vimeo.com
 ||vimeocdn.com
-||googletagmanager.com
-||googleapis.com
-||google-analytics.com
 
 !!---Youtube---
 ||youtube.com
-||googlevideo.com
 ||gstatic.com
 ||hackingwithswift.com
 ||twitter.com
