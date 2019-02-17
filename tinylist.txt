@@ -17,6 +17,12 @@
 ||google-analytics.com
 ||googlevideo.com
 
+!!---Facebook---
+||facebook.net
+
+!!---Udemy---
+||udemy.com
+
 !!---Medium---
 ||medium.com
 
