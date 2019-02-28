@@ -17,6 +17,10 @@
 ||google-analytics.com
 ||googlevideo.com
 
+!!---Flutter---
+||flutter.io
+||flutter.dev
+
 !!---Facebook---
 ||facebook.net
 
