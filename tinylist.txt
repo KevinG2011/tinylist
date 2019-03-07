@@ -17,6 +17,9 @@
 ||google-analytics.com
 ||googlevideo.com
 
+!!---VSCode---
+||code.visualstudio.com
+
 !!---Flutter---
 ||flutter.io
 ||flutter.dev
