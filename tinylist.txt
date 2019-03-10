@@ -23,6 +23,7 @@
 !!---Flutter---
 ||flutter.io
 ||flutter.dev
+||dart.goodev.org
 
 !!---Facebook---
 ||facebook.net
