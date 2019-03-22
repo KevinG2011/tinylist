@@ -30,6 +30,9 @@
 !!---Udemy---
 ||udemy.com
 
+!!---Github---
+||gist.github.com
+
 !!---Medium---
 ||medium.com
 
