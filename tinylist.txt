@@ -24,6 +24,7 @@
 ||flutter.io
 ||flutter.dev
 ||dart.goodev.org
+||dartlang.org
 
 !!---Facebook---
 ||facebook.net
