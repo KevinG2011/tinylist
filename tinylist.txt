@@ -17,6 +17,9 @@
 ||google-analytics.com
 ||googlevideo.com
 
+!!---Apple---
+||developer.apple.com
+
 !!---VSCode---
 ||code.visualstudio.com
 
