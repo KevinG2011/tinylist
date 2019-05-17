@@ -19,6 +19,7 @@
 
 !!---Apple---
 ||developer.apple.com
+||podcasts.apple.com
 
 !!---VSCode---
 ||code.visualstudio.com
