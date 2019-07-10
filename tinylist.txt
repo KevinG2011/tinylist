@@ -18,6 +18,7 @@
 
 !!---Unity---
 ||unity.com
+||unity3d.com
 
 !!---Apple---
 ||developer.apple.com
