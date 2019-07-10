@@ -17,6 +17,9 @@
 ||google-analytics.com
 ||googlevideo.com
 
+!!---Unity---
+||unity.com
+
 !!---Apple---
 ||developer.apple.com
 ||podcasts.apple.com
