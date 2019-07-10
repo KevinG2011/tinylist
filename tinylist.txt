@@ -1,9 +1,8 @@
 [AutoProxy 0.2.9]
 
 !##############Tiny List Start###############
+
 !!---Google---
-!###https://www.google.com/supported_domains###
-!...GFWList doesn't intend to support typosquatting...
 ||google.com
 ||google.co.jp
 ||google.co.kr
