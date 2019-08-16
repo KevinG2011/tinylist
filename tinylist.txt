@@ -1,7 +1,6 @@
 [AutoProxy 0.2.9]
 
 !##############Tiny List Start###############
-
 !!---Google---
 ||google.com
 ||google.co.jp
@@ -55,6 +54,9 @@
 ||gstatic.com
 ||hackingwithswift.com
 ||twitter.com
+
+!!---Other---
+||slideshare.net
 
 !##############Whitelist End#################
 !---------------------EOF--------------------
