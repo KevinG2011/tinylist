@@ -15,6 +15,9 @@
 ||google-analytics.com
 ||googlevideo.com
 
+!!---Lottie---
+||lottiefiles.com
+
 !!---Unity---
 ||unity.com
 ||unity3d.com
