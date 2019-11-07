@@ -1,6 +1,9 @@
 [AutoProxy 0.2.9]
 
 !##############Tiny List Start###############
+!!---WOW---
+||twitch.tv
+
 !!---Google---
 ||google.com
 ||google.co.jp
