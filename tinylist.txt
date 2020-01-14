@@ -18,6 +18,8 @@
 !!---Addons---
 ||curseforge.com
 ||twitch.tv
+||tukui.org
+||sketch.com
 
 !!---Lottie---
 ||lottiefiles.com
